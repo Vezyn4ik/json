@@ -48,59 +48,5 @@
       }
     ],
     "duration": 99
-  },
-  {
-    "tittle": "Course 8",
-    "area": [
-      "UI/UX design",
-      "Game development",
-      "Artificial intelligence"
-    ],
-    "skills": [
-      {
-        "name": "Deep Learning",
-        "requiredLevel": 0,
-        "enhancementLevel": 1
-      },
-      {
-        "name": "Penetration Testing",
-        "requiredLevel": 0,
-        "enhancementLevel": 4
-      },
-      {
-        "name": "Google Cloud Platform",
-        "requiredLevel": 0,
-        "enhancementLevel": 3
-      }
-    ],
-    "duration": 141
-  },
-  {
-    "tittle": "Course 11",
-    "area": [
-      "Artificial intelligence"
-    ],
-    "skills": [
-      {
-        "name": "iOS Development",
-        "requiredLevel": 0,
-        "enhancementLevel": 2
-      },
-      {
-        "name": "Network Security",
-        "requiredLevel": 4
-      },
-      {
-        "name": "C++",
-        "requiredLevel": 3,
-        "enhancementLevel": 4
-      },
-      {
-        "name": "Internet of Things (IoT)",
-        "requiredLevel": 0,
-        "enhancementLevel": 4
-      }
-    ],
-    "duration": 29
   }
 ]
