@@ -5,48 +5,11 @@
   },
   {
     "tittle": "Course 2",
-    "area": [
-      "Data science",
-      "Mobile development",
-      "UI/UX design"
-    ],
-    "skills": [
-      {
-        "name": "Node.js",
-        "requiredLevel": 0,
-        "enhancementLevel": 3
-      }
-    ],
-    "duration": 318
+    "area": "Data science"
   },
   {
     "tittle": "Course 3",
-    "area": [
-      "Information security",
-      "Robotics",
-      "Database management",
-      "Embedded systems"
-    ],
-    "skills": [
-      {
-        "name": "Hibernate",
-        "requiredLevel": 0,
-        "enhancementLevel": 3
-      },
-      {
-        "name": "Unity",
-        "requiredLevel": 0,
-        "enhancementLevel": 2
-      },
-      {
-        "name": "Data Mining",
-        "requiredLevel": 3
-      },
-      {
-        "name": "Linux Administration",
-        "requiredLevel": 1
-      }
-    ],
+    "area": "Information security",
     "duration": 99
   }
 ]
