@@ -7,22 +7,7 @@
       "Network engineering",
       "Web development"
     ],
-    "skills": [
-      {
-        "name": "Adobe Photoshop",
-        "requiredLevel": 0,
-        "enhancementLevel": 1
-      },
-      {
-        "name": "Vue.js",
-        "requiredLevel": 4
-      }
-    ],
-    "duration": 191,
-    "capacity": 167,
-    "enrolled": 16,
-    "recommended": 461,
-    "start": "Sep 13, 2024, 11:25:07 AM"
+    "duration": 191
   },
   {
     "tittle": "Course 2",
@@ -38,11 +23,7 @@
         "enhancementLevel": 3
       }
     ],
-    "duration": 318,
-    "capacity": 77,
-    "enrolled": 25,
-    "recommended": 231,
-    "start": "Sep 21, 2024, 11:25:07 AM"
+    "duration": 318
   },
   {
     "tittle": "Course 3",
@@ -72,115 +53,7 @@
         "requiredLevel": 1
       }
     ],
-    "duration": 99,
-    "capacity": 107,
-    "enrolled": 32,
-    "recommended": 94,
-    "start": "Jan 16, 2025, 11:25:07 AM"
-  },
-  {
-    "tittle": "Course 4",
-    "area": [
-      "AR/VR development",
-      "UI/UX design"
-    ],
-    "skills": [
-      {
-        "name": "Kubernetes",
-        "requiredLevel": 0,
-        "enhancementLevel": 1
-      },
-      {
-        "name": "HTML",
-        "requiredLevel": 4
-      },
-      {
-        "name": "Internet of Things (IoT)",
-        "requiredLevel": 1,
-        "enhancementLevel": 2
-      }
-    ],
-    "duration": 46,
-    "capacity": 129,
-    "enrolled": 117,
-    "recommended": 341,
-    "start": "Feb 26, 2025, 11:25:07 AM"
-  },
-  {
-    "tittle": "Course 5",
-    "area": [
-      "Information security",
-      "Desktop application development",
-      "Cybersecurity",
-      "Mobile development"
-    ],
-    "skills": [
-      {
-        "name": "Machine Learning",
-        "requiredLevel": 2
-      },
-      {
-        "name": "JavaScript",
-        "requiredLevel": 0,
-        "enhancementLevel": 2
-      },
-      {
-        "name": "Google Cloud Platform",
-        "requiredLevel": 0,
-        "enhancementLevel": 3
-      },
-      {
-        "name": "Python",
-        "requiredLevel": 2,
-        "enhancementLevel": 4
-      }
-    ],
-    "duration": 285,
-    "capacity": 57,
-    "enrolled": 28,
-    "recommended": 215,
-    "start": "Jun 2, 2024, 11:25:07 AM"
-  },
-  {
-    "tittle": "Course 6",
-    "area": [
-      "Embedded systems",
-      "Desktop application development"
-    ],
-    "skills": [
-      {
-        "name": "Unity",
-        "requiredLevel": 0,
-        "enhancementLevel": 1
-      }
-    ],
-    "duration": 233,
-    "capacity": 111,
-    "enrolled": 1,
-    "recommended": 354,
-    "start": "Nov 13, 2024, 11:25:07 AM"
-  },
-  {
-    "tittle": "Course 7",
-    "area": [
-      "Blockchain development"
-    ],
-    "skills": [
-      {
-        "name": "Kubernetes",
-        "requiredLevel": 3
-      },
-      {
-        "name": "C#",
-        "requiredLevel": 1,
-        "enhancementLevel": 2
-      }
-    ],
-    "duration": 87,
-    "capacity": 148,
-    "enrolled": 40,
-    "recommended": 548,
-    "start": "Aug 16, 2024, 11:25:07 AM"
+    "duration": 99
   },
   {
     "tittle": "Course 8",
@@ -206,70 +79,7 @@
         "enhancementLevel": 3
       }
     ],
-    "duration": 141,
-    "capacity": 56,
-    "enrolled": 26,
-    "recommended": 147,
-    "start": "Aug 4, 2024, 11:25:07 AM"
-  },
-  {
-    "tittle": "Course 9",
-    "area": [
-      "AR/VR development",
-      "Blockchain development",
-      "DevOps"
-    ],
-    "skills": [
-      {
-        "name": "Machine Learning",
-        "requiredLevel": 3
-      },
-      {
-        "name": "Shell Scripting",
-        "requiredLevel": 0,
-        "enhancementLevel": 1
-      }
-    ],
-    "duration": 20,
-    "capacity": 52,
-    "enrolled": 2,
-    "recommended": 92,
-    "start": "Jun 9, 2024, 11:25:07 AM"
-  },
-  {
-    "tittle": "Course 10",
-    "area": [
-      "Blockchain development",
-      "AR/VR development",
-      "Cloud computing",
-      "Desktop application development"
-    ],
-    "skills": [
-      {
-        "name": "Linux Administration",
-        "requiredLevel": 0,
-        "enhancementLevel": 1
-      },
-      {
-        "name": "Deep Learning",
-        "requiredLevel": 0,
-        "enhancementLevel": 4
-      },
-      {
-        "name": "Docker",
-        "requiredLevel": 2
-      },
-      {
-        "name": "Arduino",
-        "requiredLevel": 1,
-        "enhancementLevel": 3
-      }
-    ],
-    "duration": 252,
-    "capacity": 80,
-    "enrolled": 36,
-    "recommended": 232,
-    "start": "Jan 18, 2025, 11:25:07 AM"
+    "duration": 141
   },
   {
     "tittle": "Course 11",
@@ -297,10 +107,6 @@
         "enhancementLevel": 4
       }
     ],
-    "duration": 29,
-    "capacity": 162,
-    "enrolled": 54,
-    "recommended": 315,
-    "start": "May 14, 2024, 11:25:07 AM"
+    "duration": 29
   }
 ]
