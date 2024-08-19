@@ -1,12 +1,6 @@
 [
   {
     "tittle": "Course 1",
-    "area": [
-      "Blockchain development",
-      "Embedded systems",
-      "Network engineering",
-      "Web development"
-    ],
     "duration": 191
   },
   {
